@@ -7,11 +7,13 @@ let fourNames = [];
 fourNames.push("Ghost", "mark", "Cobra", "Civic");
 console.log(fourNames);
 
+
 // #### Exercise 2
 // 1. Create an array with 5 numbers in it.
 // 2. Print the numbers.
 let numbersArray = [1,3,5,7,9];
 console.log(numbersArray);
+// PARTIAL CREDIT : Use a loop to print each item in the array
 
 
 // #### Exercise 3
@@ -23,3 +25,4 @@ let userNames = ["Max", "Dan", "john", "jack"];
 console.log(userNames[2]);
 userNames.splice([2]);
 console.log(userNames[2]);
+// PARTIAL CREDIT : Syntax for splice function is wrong
